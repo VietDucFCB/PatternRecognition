@@ -98,8 +98,10 @@
         <img src="https://github.com/VietDucFCB/PatternRecognition/blob/main/image/4.png" width="500"/>
     </div>
     -Chi tiết coi trong file notebook 5. Feature Extraction Cnn.ipynb
+    
   ### 3.3: Lấy dữ liệu cho XGBOOTS:
     - Chi tiết coi trong file 7. XGBOOST_feature extraction and trainning model.ipynb
+    
 # 4. Triển khai model và kết quả:
   ### 4.1: Model SVM:
   
