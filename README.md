@@ -1,5 +1,5 @@
 # 1. Tổng quan:
-- Chủ đề: Phân loại trạng thái chú ý tinh thần bằng dữ liệu EEG
+- Chủ đề: Phân loại trạng thái chú ý tinh thần bằng dữ liệu EEG.
 - Nguồn dữ liệu: https://www.kaggle.com/datasets/inancigdem/eeg-data-for-mental-attention-state-detection/data
   - Dữ liệu EEG được thu thập trong 25 giờ từ 5 người tham gia, mỗi người điều khiển tàu mô phỏng bằng “Microsoft Train Simulator” trong 35-55 phút trên tuyến đường đơn giản.
   - Trạng thái tinh thần:
